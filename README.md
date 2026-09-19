@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, moi c'est **CYS** 👋
+# **CYS** 👋
 
 <br/>
 
